@@ -74,7 +74,6 @@ I want to focus on modern framework and libraries like react, vue, next js and m
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@agudu50](https://www.frontendmentor.io/profile/agudu50)
 - Twitter - [@trenchkhid008](https://www.twitter.com/trenchkhid08)
 
